@@ -1,0 +1,21 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+	background: #f39c12;
+}
+
+.nav {
+	margin: auto;
+	max-width: 70%;
+	font-size: 1.618rem;
+	.item {
+		text-align: center;
+		display: block;
+		color: #d35400;
+		text-transform: uppercase;
+		margin: 1.618rem;
+		text-decoration: none;
+	}
+}
